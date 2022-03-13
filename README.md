@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+> All PR should be sent to development branch
+
 First, run the development server:
 
 ```bash
